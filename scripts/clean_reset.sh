@@ -1,4 +1,4 @@
-#!bin/sh
+#!/bin/sh
 
 # go to master
 git checkout master
